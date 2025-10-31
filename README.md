@@ -11,7 +11,7 @@
 - 47 positive reviews were misclassified as negative, and 28 negative reviews were misclassified as positive.
 - This means that while the model is slightly more confident with positive (5-star) reviews, it still performs very well overall confirming the strong separation between negative and positive sentiment in text.
   
-## 📋 Project Overview
+##  Project Overview
 - This project applies Natural Language Processing (NLP) techniques to analyze 10,000 Yelp customer reviews and predict whether a review expresses a negative (1-star) or positive (5-star) opinion.
 - The goal was to explore how much information about customer satisfaction can be extracted purely from the text, without relying on any other numerical or contextual data.
 
